@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\UnityLesson_CSharp_Variables.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson1\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\UnityLesson_CSharp_Variables.csproj",
       "projectName": "UnityLesson_CSharp_Variables",
-      "projectPath": "C:\\Users\\User\\source\\repos\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\UnityLesson_CSharp_Variables.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson1\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\UnityLesson_CSharp_Variables.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson1\\UnityLesson_CSharp_program_Basic\\UnityLesson_CSharp_Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

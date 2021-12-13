@@ -29,7 +29,7 @@ namespace UnityLesson_CSharp_Function
         static bool PrintSomethingAndReturnIsFinished(string something)
         {
             bool isFinished = false;
-            Console.WriteLine(Something);
+            Console.WriteLine(something);
             isFinished = true;
             return isFinished;
         }
