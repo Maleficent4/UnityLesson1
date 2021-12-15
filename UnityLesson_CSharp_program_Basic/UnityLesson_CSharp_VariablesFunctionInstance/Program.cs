@@ -23,7 +23,7 @@ namespace UnityLesson_CSharp_VariablesFunctionInstance
             person2.isFemale = true;
             person2.gendreChar = '여';
 
-            person1.SayAge();
+            person1.SayName();
             person2.SayName();
 
         }
